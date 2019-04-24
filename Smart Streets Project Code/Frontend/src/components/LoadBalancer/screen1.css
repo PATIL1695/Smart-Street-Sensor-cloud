@@ -1,0 +1,21 @@
+h2.display-4 {
+    text-align: center
+}
+.top-banner {
+    position: relative;
+    padding-bottom: 70%
+}
+
+p.lead{
+    text-align: center;
+    line-height: 100px;
+}
+p.lead1{
+    text-align: center;
+    line-height: 100px;
+}
+
+.bg-loadbalacer{
+    background-image: url("./background.png");
+    height: 700px;
+}

@@ -1,0 +1,18 @@
+h2.display-4 {
+    text-align: center;
+    position: relative;
+    
+}
+.jumbotron {
+    position: relative;
+    top: 100px;
+}
+
+p.lead{
+    text-align: center;
+    line-height: 40px;
+}
+p.lead1{
+    text-align: center;
+    line-height: 40px;
+}
